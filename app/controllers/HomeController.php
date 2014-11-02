@@ -17,7 +17,9 @@ class HomeController extends BaseController {
 
 	public function showWelcome()
 	{
-		return View::make('hello');
+        $user = User::all();
+		return View::make('test',compact('user'));
+
 	}
 
 }

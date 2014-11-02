@@ -14,7 +14,7 @@ return array(
 	| Supported: "database", "eloquent"
 	|
 	*/
-
+    /*
 	'driver' => 'eloquent',
 
 	/*
@@ -27,7 +27,7 @@ return array(
 	| is often just the "User" model but you may use whatever you like.
 	|
 	*/
-
+    /*
 	'model' => 'User',
 
 	/*
@@ -40,7 +40,7 @@ return array(
 	| default value but you may easily change it to any table you like.
 	|
 	*/
-
+    /*
 	'table' => 'users',
 
 	/*
@@ -57,6 +57,17 @@ return array(
 	| they have less time to be guessed. You may change this as needed.
 	|
 	*/
+
+    'multi' => array(
+        'account' => array(
+            'driver' => 'eloquent',
+            'model' => 'Account'
+        ),
+        'user' => array(
+            'driver' => 'eloquent',
+            'model' => 'User'
+        )
+    ),
 
 	'reminder' => array(
 
