@@ -15,26 +15,40 @@
                     <hr>
                     <div class="login-form">
                         <!-- Start Error box -->
-                        <div class="alert alert-danger hide">
-                            <button type="button" class="close" data-dismiss="alert">&times;</button>
-                            <h4>Error!</h4>
-                            Your Error Message goes here
-                        </div>
+                        @if(Session::has('pesan'))
+                            <div class="alert alert-success fade in">
+                                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                                        {{ Session::get('pesan') }}
+                            </div>
+                        @endif
+                        
+                        @if(count($errors) >0)
+                            <div class="alert alert-danger">
+                                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                                <h4>Error!</h4>
+                                @foreach($errors->all() as $error)
+                                    <li> {{ $error}}</li>
+                                @endforeach
+                            </div>
+                        @endif
                         <!-- End Error box -->
-                        <form action="#" method="get">
-                            <input type="text" placeholder="Name" class="input-field" required/>
-                            <input type="email" placeholder="E-mail" class="input-field" required/>
-                            <input type="password" placeholder="Password" class="input-field" required/>
-                            <input type="password" placeholder="Confirm Password" class="input-field" required/>
+                        {{Form::open(array('route'=>'sign-up-process'))}}
+                            {{Form::text('fullname','',array('class'=>'input-field','placeholder'=>'Fullname','required'))}}
+                            {{Form::email('email','',array('class'=>'input-field','placeholder'=>'Email','required'))}}
+                            {{Form::text('telp','',array('class'=>'input-field','placeholder'=>'Phone','required'))}}
+                            {{Form::password('password',array('class'=>'input-field ','placeholder'=>'Password','required')) }}
+                            {{Form::password('password_confirmation',array('class'=>'input-field ','placeholder'=>'Confirm Password','required')) }}
+                            
+                        
                             <label class="checkbox">
-                                <input type="checkbox" value="option1" required>I agree to something I will never read
+                                {{Form::checkbox('agree','1')}}I agree to something I will never read
                             </label>
-                            <button type="submit" class="btn btn-login">Sign Up</button>
-                        </form>
+                             {{Form::submit('Sign Up',array('class'=>'btn btn-login')) }}
+                        {{ Form::close()}}
                         <div class="login-links">
-                            <a href="password_forgot.html">Forgot password?</a>
+                            <a href="{{route('forgot-password')}}">Forgot password?</a>
                             <br>
-                            <a href="login.html">Already have an account? <strong>Sign In</strong></a>
+                            <a href="{{action('AccountController@showLogin')}}">Already have an account? <strong>Sign In</strong></a>
                         </div>
                     </div>
                 </div>

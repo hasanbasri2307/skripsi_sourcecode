@@ -15,3 +15,5 @@ Route::get('/', 'AccountController@showLogin');
 Route::post('login',array('as'=>'login-process','uses'=>'AccountController@doLogin'));
 Route::get('signup',array('as'=>'sign-up','uses'=>'AccountController@signup'));
 Route::get('forgotPassword',array('as'=>'forgot-password','uses'=>'AccountController@forgotPassword'));
+Route::post('signup',array('as'=>'sign-up-process','uses'=>'AccountController@store'));
+Route::get('activationAccount/{email}',array('as'=>'activation-account','uses'=>'AccountController@activation'));
