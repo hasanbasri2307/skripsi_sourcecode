@@ -15,11 +15,10 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	public function showWelcome()
-	{
-        $user = User::all();
-		return View::make('test',compact('user'));
+	public function showLogin()
+    {
+        return View::make('pages.login');
+    }
 
-	}
 
 }

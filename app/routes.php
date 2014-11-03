@@ -11,8 +11,7 @@
 |
 */
 
-Route::get('/', function()
-{
-    $user = User::all();
-    return View::make('hello',compact('user'));
-});
+Route::get('/', 'AccountController@showLogin');
+Route::post('login',array('as'=>'login-process','uses'=>'AccountController@doLogin'));
+Route::get('signup',array('as'=>'sign-up','uses'=>'AccountController@signup'));
+Route::get('forgotPassword',array('as'=>'forgot-password','uses'=>'AccountController@forgotPassword'));
