@@ -96,7 +96,7 @@ return array(
 	'providers' => array(
 
 		'Illuminate\Foundation\Providers\ArtisanServiceProvider',
-		'Ollieread\Multiauth\MultiauthServiceProvider',
+		'Illuminate\Auth\AuthServiceProvider',
 		'Illuminate\Cache\CacheServiceProvider',
 		'Illuminate\Session\CommandsServiceProvider',
 		'Illuminate\Foundation\Providers\ConsoleSupportServiceProvider',
@@ -114,15 +114,17 @@ return array(
 		'Illuminate\Queue\QueueServiceProvider',
 		'Illuminate\Redis\RedisServiceProvider',
 		'Illuminate\Remote\RemoteServiceProvider',
-		'Ollieread\Multiauth\Reminders\ReminderServiceProvider',
+		'Illuminate\Auth\Reminders\ReminderServiceProvider',
 		'Illuminate\Database\SeedServiceProvider',
 		'Illuminate\Session\SessionServiceProvider',
 		'Illuminate\Translation\TranslationServiceProvider',
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
-
-	),
+        'Cartalyst\Sentry\SentryServiceProvider',
+        'Maatwebsite\Excel\ExcelServiceProvider',
+        'Barryvdh\DomPDF\ServiceProvider',
+    ),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -188,7 +190,10 @@ return array(
 		'URL'             => 'Illuminate\Support\Facades\URL',
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
+        'Sentry'           => 'Cartalyst\Sentry\Facades\Laravel\Sentry',
+        'Excel' => 'Maatwebsite\Excel\Facades\Excel',
+        'PDF' => 'Barryvdh\DomPDF\Facade',
 
-	),
+    ),
 
 );

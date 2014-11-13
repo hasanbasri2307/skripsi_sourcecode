@@ -9,5 +9,6 @@
 class Account extends Eloquent {
     protected $table = 'account';
     protected $primaryKey = 'id_account';
+      public $timestamps = false;
     
 }

@@ -1,27 +1,25 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js sidebar-large lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js sidebar-large lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js sidebar-large lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js sidebar-large"> <!--<![endif]-->
-
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-    <!-- BEGIN META SECTION -->
     <meta charset="utf-8">
-    <title>PT Overseas Commercial Futures - Login</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta content="" name="description" />
-    <meta content="themes-lab" name="author" />
-    <!-- END META SECTION -->
-    <!-- BEGIN MANDATORY STYLE -->
-    {{ HTML::style('assets/css/icons/icons.min.css') }}
-    {{ HTML::style('assets/css/bootstrap.min.css') }}
-    {{ HTML::style('assets/css/plugins.min.css') }}
-    {{ HTML::style('assets/css/style.min.css') }}
-    {{ HTML::style('assets/css/animate-custom.css') }}
-    <!-- END  MANDATORY STYLE -->
-    <!-- BEGIN PAGE LEVEL STYLE -->
-    <!-- END PAGE LEVEL STYLE -->
-     {{ HTML::script('assets/plugins/modernizr/modernizr-2.6.2-respond-1.1.0.min.js') }}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Mosaddek">
+    <meta name="keyword" content="FlatLab, Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
+    <link rel="shortcut icon" href="img/favicon.png">
 
+    <title>{{$title}}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{URL::asset('assets/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{URL::asset('css/bootstrap-reset.css')}}" rel="stylesheet">
+    <!--external css-->
+    <link href="{{URL::asset('assets/assets/font-awesome/css/font-awesome.css')}}" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="{{URL::asset('assets/css/style.css')}}" rel="stylesheet">
+    <link href="{{URL::asset('assets/css/style-responsive.css')}}" rel="stylesheet" />
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
 </head>

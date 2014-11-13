@@ -35,17 +35,10 @@ App::after(function($request, $response)
 
 Route::filter('auth', function()
 {
-	if (Auth::guest())
-	{
-		if (Request::ajax())
-		{
-			return Response::make('Unauthorized', 401);
-		}
-		else
-		{
-			return Redirect::guest('login');
-		}
-	}
+	if(!Sentry::check())
+        {
+            return Redirect::guest('/');
+        }
 });
 
 
@@ -88,3 +81,35 @@ Route::filter('csrf', function()
 		throw new Illuminate\Session\TokenMismatchException;
 	}
 });
+
+
+Route::filter('admin',function()
+{
+   $user = Sentry::getUser();
+   $admin = Sentry::findGroupByName('admin');
+   if(!$user->inGroup($admin))
+   {
+       return Redirect::to('401');
+   }
+});
+
+Route::filter('cso',function()
+{
+   $user = Sentry::getUser();
+   $admin = Sentry::findGroupByName('cso');
+   if(!$user->inGroup($admin))
+   {
+       return Redirect::to('401');
+   }
+});
+
+Route::filter('client',function()
+{
+   $user = Sentry::getUser();
+   $admin = Sentry::findGroupByName('client');
+   if(!$user->inGroup($admin))
+   {
+       return Redirect::to('401');
+   }
+});
+

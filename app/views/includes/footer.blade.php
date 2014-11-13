@@ -1,6 +1,3 @@
-    {{ HTML::script('assets/plugins/jquery-1.11.js') }}
-    {{ HTML::script('assets/plugins/jquery-migrate-1.2.1.js') }}
-    {{ HTML::script('assets/plugins/jquery-ui/jquery-ui-1.10.4.min.js') }}
-    {{ HTML::script('assets/plugins/bootstrap/bootstrap.min.js') }}
-    {{ HTML::script('assets/plugins/backstretch/backstretch.min.js') }}
-    {{ HTML::script('assets/js/account.js') }}
+ <!-- js placed at the end of the document so the pages load faster -->
+    <script src="{{URL::asset('assets/js/jquery.js')}}"></script>
+    <script src="{{URL::asset('assets/js/bootstrap.min.js')}}"></script>

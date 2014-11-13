@@ -1,7 +1,357 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ab56ce-39e4-49d3-8ee7-95cfc729c4c3" name="Default" comment="" />
+    <list default="true" id="d7ab56ce-39e4-49d3-8ee7-95cfc729c4c3" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\app\views\includes\client\footer_master.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\app\views\includes\client\head_master.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\app\views\includes\client\nav_master.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\app\views\includes\client\sidebar_master.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\app\views\layouts\admin\master.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\app\views\layouts\front.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\app\views\pages\client\dashboard.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\article1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\animate-custom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\flaticons\Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\flaticons\flaticon.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\flaticons\flaticon.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\flaticons\flaticon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\flaticons\flaticon.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfont.eot@" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfont.eot@v=4.0.3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfont.svg@v=4.0.3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfont.ttf@v=4.0.3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfont.woff@v=4.0.3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfontba72.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfontba72.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfontba72.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfontba72.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\font-awesome\fonts\fontawesome-webfontd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\glyphicons\glyphicons_halflings\font\Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\glyphicons\glyphicons_halflings\font\glyphiconshalflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\glyphicons\glyphicons_halflings\font\glyphiconshalflings-regular.eot@" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\glyphicons\glyphicons_halflings\font\glyphiconshalflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\glyphicons\glyphicons_halflings\font\glyphiconshalflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\glyphicons\glyphicons_halflings\font\glyphiconshalflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\glyphicons\glyphicons_halflings\font\glyphiconshalflings-regulard41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\icons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\weather\Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\weather\artill_clean_icons-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\weather\artill_clean_icons-webfont.eot@" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\weather\artill_clean_icons-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\weather\artill_clean_icons-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\weather\artill_clean_icons-webfontd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\weather\weatherfont\artill_clean_icons-webfont.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\zocial\Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\zocial\zocial-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\zocial\zocial-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\icons\zocial\zocial-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\plugins.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\css\style.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\fonts\Descr.WD3" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\fonts\carrois.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\fonts\opensans-bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\fonts\opensans-light.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\fonts\opensans-semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\fonts\opensans.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\account\login-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\account\login-questionmark-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\account\register-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\account\user-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar10_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar11_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar12_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar13_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar1_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar2_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar3_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar4_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar5_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar6_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar7_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar8_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\avatars\avatar9_big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\animal1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\animal2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\animal3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\animal4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\nature1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\nature2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\nature3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\nature4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\nature5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\nature6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\transport1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\transport2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gallery\transport3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gradient-big.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\construction1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\construction2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\construction3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\construction4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\me.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\more.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\nature1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\nature2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\nature3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\nature4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\pics1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\pics2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\pics3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\pics4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\review1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\profil_page\review2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\small\bars.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\small\bars_active.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\small\key_small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\small\lines.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\small\lines_active.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\small\user_small.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\various\image_crop1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\various\image_crop2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\various\timeline1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\various\timeline2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\widgets\compas.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\widgets\logo-nike.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\widgets\mountain.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\widgets\pensils.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\widgets\profil2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\img\widgets\profil3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\account.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\application.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\charts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\dashboard.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\editor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\form.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\form_wizard.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\icons.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\image_croping.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\mailbox.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\maps-google.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\notifications.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\session_timeout.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\slider.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\table_dynamic.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\table_editable.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\timeline.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\tree_view.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\js\widgets.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\backstretch\backstretch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-datepicker\bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-dropdown\bootstrap-hover-dropdown.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-progressbar\bootstrap-progressbar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-progressbar\bootstrap-progressbar.js.readme" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-select\bootstrap-select.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-slider\bootstrap-slider.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-slider\bootstrap-slider.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap-switch\bootstrap-switch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\bootstrap\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\breakpoints\breakpoints.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-circliful\css\jquery.circliful.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-circliful\js\jquery.circliful.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-d3\d3.v3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-d3\nv.d3.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-d3\nv.d3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-flot\jquery.flot.animator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-flot\jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-flot\jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-flot\jquery.flot.time.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-morris\morris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-morris\raphael.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\css\extensions5e1f.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\interp_cardinal.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\interp_linear.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\interp_step.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\offset_pct.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\offset_stack.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\offset_stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\offset_value.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\om_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\om_lines.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\om_scatter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\images\om_stack.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\examples\js\extensions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\rickshaw.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Class.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Color.Palette.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Compat.ClassList.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Fixtures.Color.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Fixtures.Number.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Fixtures.RandomData.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Fixtures.Time.Local.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Fixtures.Time.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Annotate.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Axis.Time.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Axis.Y.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Behavior.Series.Highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Behavior.Series.Order.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Behavior.Series.Toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.HoverDetail.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Legend.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.RangeSlider.Preview.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.RangeSlider.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Renderer.Area.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Renderer.Bar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Renderer.Line.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Renderer.ScatterPlot.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Renderer.Stack.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Renderer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.Smoother.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.Graph.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\src\js\Rickshaw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-rickshaw\vendor\d3.v3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\charts-sparkline\sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\cke-editor\adapters\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\cke-editor\ckeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\cke-editor\sample.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\dataTables.tableTools.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\dataTables.tableTools.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\dynamic\jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datatables\table.editable.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datetimepicker\jquery.datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\datetimepicker\jquery.datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\dropzone\dropzone.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\dropzone\dropzone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\dropzone\spritemap.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\dropzone\spritemap@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\font-awesome-animation\font-awesome-animation.min.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\fullcalendar\fullcalendar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\fullcalendar\fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\fullcalendar\moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\gallery-mixitup\jquery.mixitup.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\google-maps\gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\google-maps\markerclusterer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\icheck\custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\icheck\icheck.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\idle-timeout\jquery.idletimeout.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\idle-timeout\jquery.idletimer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jQRangeSliders\iThing.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jQRangeSliders\jQAllRangeSliders-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jQRangeSliders\jQAllRangeSliders-withRuler-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jcrop\Jcrop.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jcrop\jquery.Jcrop.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jcrop\jquery.Jcrop.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jnotify\jNotify.jquery.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jnotify\jNotify.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-1.11.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\canvas-to-blob.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\css\jquery.fileupload-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\css\jquery.fileupload.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\img\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\img\progressbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\jquery.blueimp-gallery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.fileupload-audio.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.fileupload-image.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.fileupload-process.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.fileupload-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.fileupload-validate.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.fileupload-video.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.fileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\jquery.iframe-transport.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\js\vendor\jquery.ui.widget.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\load-image.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-file-upload\tmpl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-migrate-1.2.1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-steps\jquery.steps.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-steps\jquery.steps.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-ui-touch-punch\jquery.ui.touch-punch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-ui\jquery-ui-1.10.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-validation\additional-methods.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jquery-validation\jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jstree\jstree.dnd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jstree\jstree.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jstree\jstree.types.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jstree\src\themes\default\32px.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jstree\src\themes\default\40px.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jstree\src\themes\default\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\jstree\src\themes\default\throbber.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\magnific\jquery.magnific-popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\magnific\magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\mcustom-scrollbar\jquery.mCustomScrollbar.concat.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\metrojs\images\metroIcons.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\metrojs\images\metroIcons_light.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\metrojs\metrojs.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\metrojs\metrojs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\mmenu\js\jquery.mmenu.min.all.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\modal\css\component.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\modal\js\classie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\modal\js\modalEffects.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\modernizr\modernizr-2.6.2-respond-1.1.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\nestable\jquery.nestable.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\nprogress\nprogress.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\numerator\jquery-numerator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\parsley\parsley.extend.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\parsley\parsley.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\pickadate\picker.date.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\pickadate\picker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\pickadate\picker.time.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\pickadate\themes\default.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\pickadate\themes\default.date.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\pickadate\themes\default.time.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\quicksearch\jquery.quicksearch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\simple-weather\jquery.simpleWeather.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\sortable\jquery-sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\summernote\summernote.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\summernote\summernote.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\visible\jquery.visible.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\wizard\folder.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\wizard\groups.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\wizard\server_new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\wizard\wizard.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\plugins\wizard\wizard.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\sm_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\htdocs\clientarea\public\assets\wide.png" afterPath="" />
+      <change type="MOVED" beforePath="C:\www\htdocs\clientarea\app\views\pages\forgot_password.blade.php" afterPath="$PROJECT_DIR$/app/views/layouts/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Account.php" afterPath="$PROJECT_DIR$/app/models/Account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/AccountController.php" afterPath="$PROJECT_DIR$/app/controllers/AccountController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/lib/Clientarea/Interfaces/AuthInterface.php" afterPath="$PROJECT_DIR$/app/lib/Clientarea/Interfaces/AuthInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/User.php" afterPath="$PROJECT_DIR$/app/models/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/activation.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/activation.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/app.php" afterPath="$PROJECT_DIR$/app/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/clientarea.iml" afterPath="$PROJECT_DIR$/.idea/clientarea.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/local/database.php" afterPath="$PROJECT_DIR$/app/config/local/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/filters.php" afterPath="$PROJECT_DIR$/app/filters.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/includes/footer.blade.php" afterPath="$PROJECT_DIR$/app/views/includes/footer.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/includes/head.blade.php" afterPath="$PROJECT_DIR$/app/views/includes/head.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/login.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/signup.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/signup.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="clientarea.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -19,74 +369,95 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_TOOLBAR" value="true" />
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="clientarea" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231" vertical-offset="17" max-vertical-offset="799">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="510">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/AccountController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="102" max-vertical-offset="459">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#92#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="187">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state vertical-scroll-proportion="-9.153846" vertical-offset="510" max-vertical-offset="1292">
+              <caret line="44" column="138" selection-start-line="44" selection-start-column="138" selection-end-line="44" selection-end-column="138" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/User.php">
+      <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/AdminController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="561">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding>
-                <element signature="e#7#37#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-18.846153" vertical-offset="1006" max-vertical-offset="1683">
+              <caret line="88" column="64" selection-start-line="88" selection-start-column="64" selection-end-line="88" selection-end-column="64" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthInterface.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/lib/Clientarea/Interfaces/AuthInterface.php">
+      <file leaf-file-name="nav_header.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/includes/admin/nav_header.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35111877" vertical-offset="0" max-vertical-offset="581">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="e#6#92#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.8530466" vertical-offset="969" max-vertical-offset="1700">
+              <caret line="85" column="63" selection-start-line="85" selection-start-column="63" selection-end-line="85" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/view.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="18.961538" vertical-offset="612" max-vertical-offset="1615">
+              <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/admin/profile.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.884615" vertical-offset="258" max-vertical-offset="1394">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_profile.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/admin/edit_profile.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.346153" vertical-offset="255" max-vertical-offset="1411">
+              <caret line="40" column="123" selection-start-line="40" selection-start-column="123" selection-end-line="40" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-validation-script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/assets/js/form-validation-script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2108" max-vertical-offset="2856">
+              <caret line="133" column="25" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/includes/admin/sidebar.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077" vertical-offset="357" max-vertical-offset="1037">
+              <caret line="40" column="157" selection-start-line="40" selection-start-column="157" selection-end-line="40" selection-end-column="157" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,6 +469,10 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -105,42 +480,68 @@
         <option value="$PROJECT_DIR$/app/views/hello.php" />
         <option value="$PROJECT_DIR$/app/models/User.php" />
         <option value="$PROJECT_DIR$/app/views/test.blade.php" />
-        <option value="$PROJECT_DIR$/app/config/app.php" />
         <option value="$PROJECT_DIR$/app/config/auth.php" />
         <option value="$PROJECT_DIR$/admin/login.blade.php" />
         <option value="$PROJECT_DIR$/app/views/layouts/login.blade.php" />
         <option value="$PROJECT_DIR$/app/lib/AuthInterface.php" />
         <option value="$PROJECT_DIR$/app/lib/clientarea/interface/AuthInterface.php" />
-        <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/app/controllers/AuthController.php5" />
         <option value="$PROJECT_DIR$/app/controllers/AuthController.php" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/controllers/AccountController.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/lib/Clientarea/Interfaces/AuthInterface.php" />
+        <option value="$PROJECT_DIR$/app/views/includes/admin/footer.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/app/models/Document.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/GuestController.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/docs/create.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/docs/view.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/view.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/docs/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/docs/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/DocsController.php" />
+        <option value="$PROJECT_DIR$/public/assets/js/dynamic-table.js" />
+        <option value="$PROJECT_DIR$/public/assets/assets/dt/media/css/jquery.dataTables.css" />
+        <option value="$PROJECT_DIR$/app/views/includes/admin/foot.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/includes/admin/head.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/report.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/js/clientarea.js" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/config/app.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/pdf.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/ReportController.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/result.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/create.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/users/change_password.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/public/assets/js/form-validation-script.js" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/edit_profile.blade.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/includes/admin/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/app/views/pages/admin/profile.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/includes/admin/nav_header.blade.php" />
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
-    <include_path>
-      <path value="." />
-      <path value="C:\Program Files (x86)\Zend\ZendServer\share\ZendFramework\library" />
-    </include_path>
-  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -188,6 +589,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -206,7 +661,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,15 +679,89 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Clientarea" />
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Interfaces" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientarea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,10 +790,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views/layouts" />
+    <property name="last_opened_file_path" value="C:/../Git/cmd/git.exe" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\www\htdocs\clientarea\app\views\pages\admin" />
       <recent name="C:\Program Files (x86)\Zend\Apache2\htdocs\clientarea\app\lib\clientarea" />
       <recent name="C:\Program Files (x86)\Zend\Apache2\htdocs\clientarea\app\lib\interface" />
       <recent name="C:\Program Files (x86)\Zend\Apache2\htdocs\clientarea\app\views\pages" />
@@ -280,6 +814,12 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
@@ -312,50 +852,72 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2408492" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18448023" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4031496" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4031496" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18448023" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -376,69 +938,182 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php</url>
+          <line>410</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Groups/GroupInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="816">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/lib/Clientarea/Interfaces/AuthInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="306">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="748">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3400">
+        <state vertical-scroll-proportion="1.8461539" vertical-offset="48" max-vertical-offset="1088">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/auth.php">
+    <entry file="file://$PROJECT_DIR$/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Groups/ProviderInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="830" max-vertical-offset="1496">
-          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/services.php">
+    <entry file="file://$PROJECT_DIR$/vendor/cartalyst/sentry/src/Cartalyst/Sentry/SentryServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.08261618" vertical-offset="48" max-vertical-offset="629">
+        <state vertical-scroll-proportion="-7.5860214" vertical-offset="4233" max-vertical-offset="5015">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Sentry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.494718" vertical-offset="12029" max-vertical-offset="12597">
+          <caret line="524" column="33" selection-start-line="524" selection-start-column="20" selection-end-line="524" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/Provider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.52667814" vertical-offset="306" max-vertical-offset="5933">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.52667814" vertical-offset="306" max-vertical-offset="16558">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Groups/Eloquent/Group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.972462" vertical-offset="5794" max-vertical-offset="6630">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Document.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35111877" vertical-offset="0" max-vertical-offset="581">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="255">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/GuestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="42.03846" vertical-offset="2266" max-vertical-offset="5491">
+          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.089788735" vertical-offset="51" max-vertical-offset="1513">
+          <caret line="0" column="81" selection-start-line="0" selection-start-column="81" selection-end-line="0" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/docs/view.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43133804" vertical-offset="639" max-vertical-offset="1207">
+          <caret line="52" column="64" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/docs/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.807693" vertical-offset="629" max-vertical-offset="1343">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/docs/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="714" max-vertical-offset="1513">
+          <caret line="52" column="78" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/DocsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1222031" vertical-offset="3278" max-vertical-offset="4012">
+          <caret line="197" column="11" selection-start-line="197" selection-start-column="11" selection-end-line="197" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/dynamic-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1059" max-vertical-offset="1870">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/assets/advanced-datatable/media/css/demo_table_jui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8602">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/assets/advanced-datatable/media/css/jquery.dataTables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3859">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/assets/advanced-datatable/media/css/demo_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/assets/advanced-datatable/media/css/demo_table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7978" max-vertical-offset="9911">
+          <caret line="479" column="30" selection-start-line="479" selection-start-column="30" selection-end-line="479" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/includes/admin/foot.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="510">
+          <caret line="7" column="138" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/assets/dt/media/css/jquery.dataTables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7441077" vertical-offset="102" max-vertical-offset="8194">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28016">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29716">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -446,125 +1121,216 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="18.846153" vertical-offset="1527" max-vertical-offset="2210">
-          <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/hello.php">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384" vertical-offset="102" max-vertical-offset="867">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.34767643" vertical-offset="6802" max-vertical-offset="17391">
+          <caret line="413" column="9" selection-start-line="413" selection-start-column="9" selection-end-line="413" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/docs/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1923077" vertical-offset="1238" max-vertical-offset="3400">
-          <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1564">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/auth.php">
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/report.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53184164" vertical-offset="830" max-vertical-offset="1496">
-          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="38.46154" vertical-offset="1000" max-vertical-offset="1581">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.568662" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.73077" vertical-offset="592" max-vertical-offset="1530">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://PHP/\AuthController">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>PHP</ID>
-          <OriginalElement>\AuthController</OriginalElement>
-          <nodes>
-            <node x="" y="">\BaseController</node>
-            <node x="" y="">\AuthController</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="56.5" y="55.0" />
-          <SelectedNodes />
-          <Categories />
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="187">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.4190141" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/User.php">
+    <entry file="file://$PROJECT_DIR$/app/views/includes/admin/head.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="561">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding>
-            <element signature="e#7#37#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="510">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.53184164" vertical-offset="14" max-vertical-offset="595">
+          <caret line="19" column="113" selection-start-line="19" selection-start-column="113" selection-end-line="19" selection-end-column="113" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231" vertical-offset="17" max-vertical-offset="799">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="884">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7307692" vertical-offset="1918" max-vertical-offset="3485">
+          <caret line="117" column="50" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/result.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/pdf.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.9615383" vertical-offset="2921" max-vertical-offset="3519">
+          <caret line="184" column="12" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ReportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7307692" vertical-offset="3261" max-vertical-offset="4709">
+          <caret line="196" column="29" selection-start-line="196" selection-start-column="20" selection-end-line="196" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/clientarea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="731">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11645">
+          <caret line="0" column="77" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20788531" vertical-offset="71" max-vertical-offset="663">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/AccountController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923" vertical-offset="102" max-vertical-offset="459">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+        <state vertical-scroll-proportion="-3.1075268" vertical-offset="1734" max-vertical-offset="5066">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/lib/Clientarea/Interfaces/AuthInterface.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35111877" vertical-offset="0" max-vertical-offset="581">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="6.928302" vertical-offset="0" max-vertical-offset="4760">
+          <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/change_password.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17957747" vertical-offset="255" max-vertical-offset="1360">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/view.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.961538" vertical-offset="612" max-vertical-offset="1615">
+          <caret line="7" column="101" selection-start-line="7" selection-start-column="101" selection-end-line="7" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="510" max-vertical-offset="1292">
+          <caret line="44" column="138" selection-start-line="44" selection-start-column="138" selection-end-line="44" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/edit_profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="255" max-vertical-offset="1411">
+          <caret line="40" column="123" selection-start-line="40" selection-start-column="123" selection-end-line="40" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/includes/admin/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="357" max-vertical-offset="1037">
+          <caret line="40" column="157" selection-start-line="40" selection-start-column="157" selection-end-line="40" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74862385" vertical-offset="17" max-vertical-offset="1955">
+          <caret line="25" column="44" selection-start-line="10" selection-start-column="30" selection-end-line="25" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.846153" vertical-offset="1006" max-vertical-offset="1683">
+          <caret line="88" column="64" selection-start-line="88" selection-start-column="64" selection-end-line="88" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/users/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59266055" vertical-offset="51" max-vertical-offset="1411">
+          <caret line="22" column="127" selection-start-line="22" selection-start-column="94" selection-end-line="22" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/form-validation-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2108" max-vertical-offset="2856">
+          <caret line="133" column="25" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/admin/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.884615" vertical-offset="258" max-vertical-offset="1394">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/includes/admin/nav_header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8530466" vertical-offset="969" max-vertical-offset="1700">
+          <caret line="85" column="63" selection-start-line="85" selection-start-column="63" selection-end-line="85" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>

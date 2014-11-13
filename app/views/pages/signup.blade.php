@@ -1,58 +1,57 @@
-@extends('layouts.front')
+@extends('layouts.login',['title'=>'PT Overseas Commercial Futures - Sign Up'])
 @section('content')
-<div class="container" id="login-block">
-        <div class="row">
-            <div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-4">
-                <div class="login-box clearfix animated flipInY">
-                    <div class="page-icon animated bounceInDown">
-                        {{ HTML::image('assets/img/account/user-icon.png')}}
-                    </div>
-                    <div class="login-logo">
-                        <a href="#">
-                           {{HTML::image('assets/sm_logo.png','',array('height'=>'140px','width'=>'192px'))}}
-                        </a>
-                    </div>
-                    <hr>
-                    <div class="login-form">
-                        <!-- Start Error box -->
-                        @if(Session::has('pesan'))
-                            <div class="alert alert-success fade in">
-                                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
-                                        {{ Session::get('pesan') }}
-                            </div>
-                        @endif
-                        
-                        @if(count($errors) >0)
-                            <div class="alert alert-danger">
-                                <button type="button" class="close" data-dismiss="alert">&times;</button>
-                                <h4>Error!</h4>
-                                @foreach($errors->all() as $error)
-                                    <li> {{ $error}}</li>
-                                @endforeach
-                            </div>
-                        @endif
-                        <!-- End Error box -->
-                        {{Form::open(array('route'=>'sign-up-process'))}}
-                            {{Form::text('fullname','',array('class'=>'input-field','placeholder'=>'Fullname','required'))}}
-                            {{Form::email('email','',array('class'=>'input-field','placeholder'=>'Email','required'))}}
-                            {{Form::text('telp','',array('class'=>'input-field','placeholder'=>'Phone','required'))}}
-                            {{Form::password('password',array('class'=>'input-field ','placeholder'=>'Password','required')) }}
-                            {{Form::password('password_confirmation',array('class'=>'input-field ','placeholder'=>'Confirm Password','required')) }}
-                            
-                        
-                            <label class="checkbox">
-                                {{Form::checkbox('agree','1')}}I agree to something I will never read
-                            </label>
-                             {{Form::submit('Sign Up',array('class'=>'btn btn-login')) }}
-                        {{ Form::close()}}
-                        <div class="login-links">
-                            <a href="{{route('forgot-password')}}">Forgot password?</a>
-                            <br>
-                            <a href="{{action('AccountController@showLogin')}}">Already have an account? <strong>Sign In</strong></a>
-                        </div>
-                    </div>
-                </div>
+
+{{Form::open(array('route'=>'sign-up-process','class'=>'form-signin'))}}
+
+        {{ HTML::image('assets/img/sm_logo.png','',array('width'=>'150','height'=>'140','class'=>'form-signin-heading','style'=>'margin-left:90px'))}}
+        
+        <div class="login-wrap">
+            
+        @if(Session::has('pesanError'))
+            <div class="alert alert-block alert-danger fade in">
+                <button type="button" class="close close-sm" data-dismiss="alert" > <i class="icon-remove"></i></button>
+                {{ Session::get('pesanError') }}
             </div>
+        @endif
+                        
+        @if(Session::has('pesanSuccess'))
+            <div class="alert alert-block alert-success fade in">
+                <button type="button" class="close close-sm" data-dismiss="alert" aria-hidden="true"> <i class="icon-remove"></i></button>
+                {{ Session::get('pesanSuccess') }}
+            </div>
+        @endif
+                        
+        @if(count($errors) >0)
+            <div class="alert alert-block alert-danger fade in">
+                <button type="button" class="close close-sm" data-dismiss="alert"> <i class="icon-remove"></i></button>
+                <h4>Error!</h4>
+                @foreach($errors->all() as $error)
+                    <li> {{ $error}}</li>
+                @endforeach
+            </div>
+        @endif
+        
+            {{Form::text('first_name','',array('class'=>'form-control','placeholder'=>'First Name','required','autofocus'))}}
+            {{Form::text('last_name','',array('class'=>'form-control','placeholder'=>'Last Name'))}}
+            {{Form::number('telp','',array('class'=>'form-control','placeholder'=>'Phone','required'))}}
+            {{Form::email('email','',array('class'=>'form-control','placeholder'=>'Email','required'))}}
+            {{Form::password('password',array('class'=>'form-control','placeholder'=>'Password','required')) }}
+            {{Form::password('password_confirmation',array('class'=>'form-control','placeholder'=>'Password Confirmation','required')) }}
+            
+            <label class="checkbox"> 
+                {{Form::checkbox('agree','1',false)}}I have read & agree to Overseas Commercial Futures Trading Rules 
+                
+                
+            </label>
+            {{Form::submit('Sign Up',array('class'=>'btn btn-lg btn-login btn-block')) }}
+             {{Form::close()}}
+            
+            
+
         </div>
-    </div>
+
+         
+
+     
+
 @stop

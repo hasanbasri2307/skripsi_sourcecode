@@ -8,6 +8,9 @@
 namespace Clientarea\Interfaces;
 
 interface AuthInterface {
+    /**
+     * @return mixed
+     */
     public function doLogin();
     public function doLogout();
 }

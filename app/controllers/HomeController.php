@@ -15,10 +15,19 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	public function showLogin()
+    public function showLogin()
     {
         return View::make('pages.login');
     }
 
+    public function error401()
+    {
+        return View::make('pages.401');
+    }
+    
+    public function error401front()
+    {
+        return View::make('pages.error401');
+    }
 
 }
